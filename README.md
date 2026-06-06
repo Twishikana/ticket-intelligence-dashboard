@@ -39,6 +39,10 @@ This project simulates an internal operations dashboard for tracking production 
 - Derived state for filtering and summary metrics
 - Basic CRUD behavior
 
+## Live Demo
+
+[View the live app](https://ticket-intelligence-dashboard-7g6n48mvj-twishikana-s-projects.vercel.app/)
+
 ## Running Locally
 
 ```bash
