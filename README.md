@@ -2,6 +2,10 @@
 
 A React + TypeScript dashboard for tracking enterprise support tickets by status, priority, owner, and module.
 
+## Project Context
+
+This project simulates an internal operations dashboard for tracking production or support tickets across modules. It was built to practice TypeScript, React component design, filtering logic, form handling, CRUD-style ticket actions, and local persistence.
+
 ## Features
 
 - Create new tickets with form validation
@@ -12,6 +16,10 @@ A React + TypeScript dashboard for tracking enterprise support tickets by status
 - Delete tickets
 - Reset demo data
 - Persist changes using localStorage
+
+## Screenshot
+
+![Ticket Intelligence Dashboard Screenshot](public/dashboard-screenshot.png)
 
 ## Tech Stack
 
@@ -36,10 +44,4 @@ A React + TypeScript dashboard for tracking enterprise support tickets by status
 ```bash
 npm install
 npm run dev
-
-## Project Context
-
-This project simulates an internal operations dashboard for tracking enterprise support tickets across product modules. It is inspired by common workflows in enterprise SaaS environments where teams need to monitor ticket status, priority, ownership, and module-level issues.
-
-The goal of the project was to practice building a practical React + TypeScript interface with typed data models, reusable components, controlled forms, filtering logic, CRUD-style ticket actions, and local persistence using browser storage.
 ```
