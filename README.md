@@ -41,8 +41,8 @@ This project simulates an internal operations dashboard for tracking production 
 
 ## Live Demo
 
-[View the live app on GitHub Pages](https://twishikana.github.io/ticket-intelligence-dashboard/)
-[View the live app on Vercel](https://ticket-intelligence-dashboard-7g6n48mvj-twishikana-s-projects.vercel.app/)
+- [View the live app on GitHub Pages](https://twishikana.github.io/ticket-intelligence-dashboard/)
+- [View the live app on Vercel](https://ticket-intelligence-dashboard-7g6n48mvj-twishikana-s-projects.vercel.app/)
 
 ## Running Locally
 
