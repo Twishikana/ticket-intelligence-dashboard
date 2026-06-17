@@ -377,4 +377,26 @@ h1,
     flex-direction: column;
     gap: 12px;
   }
+  
+}
+
+:root,
+html,
+body,
+#root,
+.app {
+  color: #111827 !important;
+  background: #f4f6f8 !important;
+  color-scheme: light !important;
+}
+
+.app h1,
+.app h2,
+.app h3,
+.app p,
+.summary-card h2,
+.ticket-form h2 {
+  color: #111827 !important;
+  opacity: 1 !important;
+  -webkit-text-fill-color: #111827 !important;
 }
