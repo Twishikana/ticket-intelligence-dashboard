@@ -333,6 +333,14 @@ h1 {
   color: #6b7280;
 }
 
+/* Force readable text contrast */
+
+h1,
+.ticket-form h2,
+.summary-card h2 {
+  color: #111827 !important;
+}
+
 /* Responsive behavior */
 
 @media (max-width: 700px) {
