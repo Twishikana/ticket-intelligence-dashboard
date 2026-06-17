@@ -5,6 +5,35 @@ body {
   color: #111827;
 }
 
+html {
+  background: #f4f6f8;
+  color: #111827;
+  color-scheme: light;
+}
+
+h1,
+h2,
+h3,
+p,
+label,
+span {
+  color: #111827;
+}
+
+.summary-card h2,
+.ticket-form h2 {
+  color: #111827;
+}
+
+.ticket-form input,
+.ticket-form select,
+.search-input,
+.status-filter,
+.priority-filter {
+  color: #111827;
+  background: #ffffff;
+}
+
 .app {
   max-width: 900px;
   width: 100%;
@@ -61,7 +90,7 @@ h1 {
 .summary-card p {
   margin: 6px 0 0;
   font-size: 13px;
-  color: #6b7280;
+  color: #4b5563;
 }
 
 /* Create Ticket Form */
